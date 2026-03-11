@@ -87,9 +87,9 @@ BiocManager::install(c("DESeq2", "airway", "ggplot2", "pheatmap", "EnhancedVolca
 ## 🗂️ Repository Structure
 
 ```
-airway-rnaseq-analysis/
+Airway-RNA-Seq/
 │
-├── airway_rnaseq.R               # Main analysis script
+├── airway_rna_seq.R               # Main analysis script
 ├── README.md                     # Project documentation
 ├── DESeq2_all_results.csv        # Generated after running script
 └── DESeq2_significant_DEGs.csv   # Generated after running script

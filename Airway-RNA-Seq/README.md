@@ -89,7 +89,7 @@ BiocManager::install(c("DESeq2", "airway", "ggplot2", "pheatmap", "EnhancedVolca
 ```
 Airway-RNA-Seq/
 │
-├── airway_rna_seq.R               # Main analysis script
+├── Airway_RNA_Seq.ipynb               # Main analysis script
 ├── README.md                     # Project documentation
 ├── DESeq2_all_results.csv        # Generated after running script
 └── DESeq2_significant_DEGs.csv   # Generated after running script
